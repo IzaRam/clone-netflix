@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="./style/moreinfo.css">
 
     <!-- Responsividade -->
     <link rel="stylesheet" href="style/responsive.css">
@@ -43,7 +44,7 @@
                         <i class="fas fa-play"></i>
                         ASSISTIR AGORA
                     </button>
-                    <button role="button" class="botao">
+                    <button role="button" class="botao" onclick="togglePopup()">
                         <i class="fas fa-info-circle"></i>
                         MAIS INFORMAÇÕES
                     </button>
@@ -97,6 +98,32 @@
     <script src="js/owl/jquery.min.js"></script>    
     <script src="js/owl/owl.carousel.min.js"></script>
     <script src="js/owl/setup.js"></script>
+
+
+    <div class="popup" id="popup-1"> 
+        <div class="overlay" onclick="togglePopup()"></div>
+        <div class="content">
+            <div class="close-btn" onclick="togglePopup()">&times;</div>
+
+            <div class="cover">
+                <h1>THE UMBRELLA ACADEMY</h1>
+                <p>A dysfunctional family of superheroes comes together to solve the mystery of 
+                    their father's death, the threat of the apocalypse and more.</p>
+                <button role="button" class="botao">
+                    <i class="fas fa-play"></i>
+                    Assistir
+                </button>
+            </div>
+
+            <div class="episodios">
+                <h2>Episódios</h2>
+            </div>
+            
+        </div>
+    </div>
+
+    <script src="js/info.js"></script>
+
 
 </body>
 
