@@ -1,0 +1,52 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "THE UMBRELLA ACADEMY",
+      "urlFoto": "https://streamingsbrasil.com/wp-content/uploads/2020/02/2-temporada-de-The-Umbrella-Academy.jpg",
+      "descricao": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more."
+    },
+    {
+      "id": 2,
+      "titulo": "MIB: Homens de Preto II ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "descricao": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past."
+    },
+    {
+      "id": 3,
+      "titulo": "Um Sonho de Liberdade",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "descricao": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+      "id": 4,
+      "titulo": "O Poderoso Chefão",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "descricao": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+      "id": 5,
+      "titulo": "O Poderoso Chefão II",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "descricao": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+      "id": 6,
+      "titulo": "Batman: O Cavaleiro das Trevas",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "descricao": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+      "id": 7,
+      "titulo": "12 Homens e uma Sentença",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "descricao": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+  },
+  {
+      "id": 8,
+      "titulo": "A Lista de Schindler",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "descricao": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  }
+  ]
+}

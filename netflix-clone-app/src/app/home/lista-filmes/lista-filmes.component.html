@@ -1,0 +1,7 @@
+<owl-carousel-o [options]="customOptions">
+    <ng-template carouselSlide *ngFor="let filme of filmes">
+        <div class="slide">
+            <img [src]="filme.urlFoto">
+        </div>
+    </ng-template>
+</owl-carousel-o>

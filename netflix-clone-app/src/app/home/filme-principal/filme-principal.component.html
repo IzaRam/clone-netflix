@@ -1,0 +1,21 @@
+<div class="filme-principal" style="background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50) 100%) ,url('{{ filme.urlFoto }}');">
+
+    <div class="container">
+
+        <h3 class="titulo">{{ filme.titulo | uppercase}}</h3>
+        <p class="descricao"> {{ filme.descricao }} </p>
+
+        <div class="botoes">
+            <button class="botao" routerLink="/teste">
+                <i class="fas fa-play"></i>
+                ASSISTIR AGORA
+            </button>
+            <button class="botao">
+                <i class="fas fa-info-circle"></i>
+                MAIS INFORMAÇÕES
+            </button>
+        </div>
+
+    </div>
+    
+</div>

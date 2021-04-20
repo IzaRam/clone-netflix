@@ -1,0 +1,8 @@
+.slide {
+  display: flex;
+}
+
+.slide img {
+  width: auto;
+  height: 100%;
+}
